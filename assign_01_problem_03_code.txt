@@ -1,0 +1,23 @@
+//noura Mostafa 
+//20216331
+
+#include <iostream>
+using namespace std;
+ 
+int main() {
+    int y;
+    long long lo;
+    char x;
+    float z;
+    double t;
+ 
+    cin >> y >> lo >> x >> z >> t;
+ 
+    cout << y << endl;
+    cout << lo << endl;
+    cout << x << endl;
+    cout << z << endl;
+    cout << t << endl;
+ 
+    return 0;
+}

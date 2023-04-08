@@ -1,0 +1,14 @@
+//noura Mostafa 
+//20216331
+
+
+
+#include <iostream>
+using namespace std;
+ int main(){
+long long x, y, z, l ,q;
+cin>> x >> y >> z>> l;
+ X = (x * y) - (z * l) ;
+cout<<"Difference = "<< q ;
+return 0;
+}
